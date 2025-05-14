@@ -12,10 +12,6 @@
 
 
 
-![status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
-![feito por](https://img.shields.io/badge/feito%20por-Heloisa-blue)
-
-
 <h2 style="color: #00BFFF;">Projeto feito por Seu Nome</h2>
 
 <p style="color: green;">Este parágrafo está em verde.</p>
