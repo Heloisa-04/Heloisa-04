@@ -2,6 +2,15 @@
 
 # 👋 Olá, eu sou Heloisa!
 
+<div style="background-color: yellow; padding: 20px; border-radius: 10px;">
+
+
+
+<img src="https://img.shields.io/badge/status-Em%20Desenvolvimento-yellow?style=for-the-badge">
+
+</div>
+
+
 
 ![status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![feito por](https://img.shields.io/badge/feito%20por-Heloisa-blue)
