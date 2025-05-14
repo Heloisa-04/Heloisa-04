@@ -1,4 +1,3 @@
-## Bom dia 👋
 
 # 👋 Olá, eu sou Heloisa!
 
