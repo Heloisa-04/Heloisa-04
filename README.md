@@ -3,6 +3,9 @@
 # 👋 Olá, eu sou Heloisa!
 
 
+![status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![licença](https://img.shields.io/badge/licença-MIT-green)
+![feito por](https://img.shields.io/badge/feito%20por-Seu%20Nome-blue)
 
 
 
