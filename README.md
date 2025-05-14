@@ -4,9 +4,12 @@
 
 
 ![status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
-![licença](https://img.shields.io/badge/licença-MIT-green)
 ![feito por](https://img.shields.io/badge/feito%20por-Heloisa-blue)
 
+
+<h2 style="color: #00BFFF;">Projeto feito por Seu Nome</h2>
+
+<p style="color: green;">Este parágrafo está em verde.</p>
 
 
 ### Studying in this moment:
