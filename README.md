@@ -12,10 +12,6 @@
 
 
 
-<h2 style="color: #00BFFF;">Projeto feito por Seu Nome</h2>
-
-<p style="color: green;">Este parágrafo está em verde.</p>
-
 
 ### Studying in this moment:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117&textColor=0D1117)&nbsp;
